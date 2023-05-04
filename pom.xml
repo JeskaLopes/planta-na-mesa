@@ -9,10 +9,10 @@
 		<relativePath />
 	</parent>
 	<groupId>com.generation</groupId>
-	<artifactId>planta_na_mesa</artifactId>
+	<artifactId>plantanamesa</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>planta_na_mesa</name>
-	<description>Planta_na_mesa</description>
+	<name>Planta na Mesa</name>
+	<description>Planta na Mesa</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
