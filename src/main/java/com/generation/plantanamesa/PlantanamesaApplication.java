@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PlantaNaMesaApplication {
+public class PlantanamesaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PlantaNaMesaApplication.class, args);
+		SpringApplication.run(PlantanamesaApplication.class, args);
 	}
 
 }
