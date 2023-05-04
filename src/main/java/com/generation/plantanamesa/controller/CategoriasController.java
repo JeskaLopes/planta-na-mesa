@@ -1,4 +1,4 @@
-package com.generation.planta_na_mesa.controller;
+package com.generation.plantanamesa.controller;
 
 import java.util.List;
 import java.util.Optional;
@@ -18,8 +18,8 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.server.ResponseStatusException;
 
-import com.generation.planta_na_mesa.model.Categorias;
-import com.generation.planta_na_mesa.repository.CategoriasRepository;
+import com.generation.plantanamesa.model.Categorias;
+import com.generation.plantanamesa.repository.CategoriasRepository;
 
 import jakarta.validation.Valid;
 

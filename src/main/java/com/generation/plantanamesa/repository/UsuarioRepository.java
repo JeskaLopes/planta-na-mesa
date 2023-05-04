@@ -1,10 +1,10 @@
-package com.generation.planta_na_mesa.repository;
+package com.generation.plantanamesa.repository;
 
 import java.util.Optional;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.generation.planta_na_mesa.model.Usuario;
+import com.generation.plantanamesa.model.Usuario;
 
 public interface UsuarioRepository extends JpaRepository<Usuario, Long>{
 

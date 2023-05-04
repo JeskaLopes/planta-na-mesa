@@ -1,4 +1,4 @@
-package com.generation.planta_na_mesa;
+package com.generation.plantanamesa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

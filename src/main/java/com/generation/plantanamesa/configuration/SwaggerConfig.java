@@ -1,4 +1,4 @@
-package com.generation.planta_na_mesa.configuration;
+package com.generation.plantanamesa.configuration;
 
 import org.springdoc.core.customizers.OpenApiCustomizer;
 import org.springframework.context.annotation.Bean;

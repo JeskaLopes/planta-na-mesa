@@ -1,4 +1,4 @@
-package com.generation.planta_na_mesa.controller;
+package com.generation.plantanamesa.controller;
 
 import java.util.List;
 import java.util.Optional;
@@ -16,8 +16,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.generation.planta_na_mesa.model.Produto;
-import com.generation.planta_na_mesa.repository.ProdutoRepository;
+import com.generation.plantanamesa.model.Produto;
+import com.generation.plantanamesa.repository.ProdutoRepository;
 
 import jakarta.validation.Valid;
 

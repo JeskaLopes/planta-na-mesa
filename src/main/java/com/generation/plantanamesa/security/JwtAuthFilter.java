@@ -1,4 +1,4 @@
-package com.generation.planta_na_mesa.security;
+package com.generation.plantanamesa.security;
 
 import java.io.IOException;
 

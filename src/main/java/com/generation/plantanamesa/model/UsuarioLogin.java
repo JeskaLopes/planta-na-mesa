@@ -1,4 +1,4 @@
-package com.generation.planta_na_mesa.model;
+package com.generation.plantanamesa.model;
 
 public class UsuarioLogin {
 
